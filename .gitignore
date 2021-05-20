@@ -1,3 +1,4 @@
 ignored-file.txt
 *.log
 log/
+*.orig
