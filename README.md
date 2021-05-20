@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 Deneme, deneme
 
 Change to be committed but not pushed
+Change to be staged but not committed
+Change not to be staged
