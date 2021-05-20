@@ -13,3 +13,6 @@ Deneme, deneme
 Change to be committed but not pushed
 Change to be staged but not committed
 Change not to be staged
+
+#### Copyright
+2021 Beyza
